@@ -80,11 +80,6 @@ The full report (`.pdf`) contains:
 - Evaluation metrics and trade-off discussion
 - Model architecture outputs and pruning pseudocode
 
-## 🧠 Authors
-
-- Jinal Vyas
-- Pratik Agarwal
-
 ## 📄 License
 
 This repository is for academic and research use only.
